@@ -1,4 +1,4 @@
 # Mashop_django
 django_python
 
-wedsite ขายสินค้า 
+peoject files for learning wedsite django_python
